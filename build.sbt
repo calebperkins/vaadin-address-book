@@ -1,4 +1,4 @@
-name := "vaadin-demo"
+name := "address-book"
 
 version := "1.0"
 
